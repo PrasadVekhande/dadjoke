@@ -1,4 +1,4 @@
-module github.com/example/dadjoke
+module github.com/PrasadVekhande/dadjoke
 
 go 1.15
 
